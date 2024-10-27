@@ -3480,3 +3480,10 @@ html.no-csstransitions .hero-content {
   }
 
 }
+
+
+.icons-list img{
+  width: 90px;
+  height: auto;
+}
+
